@@ -1,0 +1,43 @@
+﻿<Window x:Class="ProjectMaster2016.AddProjectHourWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Skrá tíma" Height="423" Width="726" Loaded="Window_Loaded" WindowStyle="SingleBorderWindow" WindowStartupLocation="CenterScreen"  Background="White" WindowState="Normal">
+    <Window.Triggers>
+        <EventTrigger RoutedEvent="Window.Loaded">
+            <BeginStoryboard>
+                <Storyboard>
+                    <DoubleAnimation Storyboard.TargetProperty="Opacity" From="0" To="1" Duration="0:0:0.5" FillBehavior="Stop" />
+                </Storyboard>
+            </BeginStoryboard>
+        </EventTrigger>
+
+    </Window.Triggers>
+    <Grid Margin="0,0,-8,0" >
+        <Label Content="Verkefni:" HorizontalAlignment="Left" Margin="47,70,0,0" VerticalAlignment="Top" Width="87"/>
+        <Label x:Name="lblAddProjectHoursProject" Content="Veldu verkefni" Margin="220,70,0,0" HorizontalAlignment="Left" Width="400" VerticalAlignment="Top" Foreground="#FFE89595"/>
+        <Label Content="Starfsmaður:" HorizontalAlignment="Left" Margin="47,110,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btnAddProjectHours_Project" Margin="625,70,0,0" BorderBrush="#FFF9F3F3" BorderThickness="1" Cursor="Hand" Background="Transparent" Height="30" VerticalAlignment="Top" HorizontalAlignment="Left" Width="30" Click="btnAddProjectHoursProject_Click">
+            <Image  Source="/images/plus.png" Height="20" Stretch="Fill" Width="21"  />
+        </Button>
+        <Label x:Name="lblProjectHourEmployee" Content="Veldu starfsmann" Margin="220,110,0,0" HorizontalAlignment="Left"  Width="400"  VerticalAlignment="Top" Foreground="#FFE89595"/>
+        <Button x:Name="btnAddProjectHours_Employee" Margin="625,110,0,0" BorderBrush="#FFF9F3F3" BorderThickness="1" Cursor="Hand" Background="Transparent" Height="30" VerticalAlignment="Top" HorizontalAlignment="Left" Width="30" Click="btnAddProjectHoursEmployee_Click">
+            <Image  Source="/images/plus.png" Height="20" Stretch="Fill" Width="21"  />
+        </Button>
+        <Label Content="Lýsing:" HorizontalAlignment="Left" Margin="47,150,0,0" VerticalAlignment="Top"/>
+        <TextBox Text=""  x:Name="txtphdescription" TextWrapping="Wrap" Height="60" HorizontalAlignment="Left" Margin="220,150,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.237,-0.192" Width="400"/>
+
+        <Label Content="Dagsetning tímafærslu:" HorizontalAlignment="Left" Margin="47,218,0,0" VerticalAlignment="Top"/>
+        <DatePicker x:Name="dpHoursDate"  HorizontalAlignment="Left" Margin="220,218,0,0" VerticalAlignment="Top">
+            <DatePicker.Resources>
+                <Style TargetType="DatePickerTextBox">
+                    <Setter Property="Text" Value="Veldu dagsetningu"></Setter>
+                </Style>
+            </DatePicker.Resources>
+        </DatePicker>
+        <Label Content="Fjöldi tíma: " HorizontalAlignment="Left" Margin="48,258,0,0" VerticalAlignment="Top"/>
+        <TextBox  HorizontalAlignment="Left" x:Name="txthours" Height="23" Margin="220,258,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="80"/>
+        <Button Content="Nýskrá" HorizontalAlignment="Left" Margin="220,334,0,0" VerticalAlignment="Top" Cursor="Hand" Width="75" Click="AddProjectHours_Click"/>
+        <Button Content="Hætta við" HorizontalAlignment="Left" Margin="336,334,0,0" VerticalAlignment="Top" Cursor="Hand" Width="75" Click="Cancel_Click"/>
+
+    </Grid>
+</Window>

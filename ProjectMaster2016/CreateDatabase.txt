@@ -1,0 +1,290 @@
+create database projectmaster	
+use projectmaster	
+	
+	
+create table userroles	
+(	
+	urid int primary key identity,
+	userrole varchar(255),
+);	
+	
+	
+create table zipcodes	
+(	
+	zip int primary key,
+	place varchar(255) not null
+);	
+	
+create table employee	
+(	
+	eid int primary key identity,
+	name varchar(255) not null,
+	email varchar(255) not null,
+	homeaddress varchar(255) not null,
+	zip int foreign key references zipcodes(zip),
+	phone varchar(255) not null,
+	profession varchar(255),
+	imgname varchar (255),
+	img varbinary(max),
+	userrole_urid int foreign key references userroles(urid), 
+	username varchar(255) not null unique,
+	[password] varchar(255) not null,
+	kt varchar(255),
+	employeetimestamp datetime
+);	
+	
+create table project	
+(	
+	pid int primary key identity,
+	projectname varchar(255) not null,
+	employee_eid int foreign key references employee(eid),
+	pdescription varchar(max) not null,
+	pdate datetime,
+	pdeadline datetime,
+	projectisfinished bit  not null default 0
+	
+);	
+	
+create table project_hours	
+(	
+	project_pid int foreign key references project(pid),
+	employee_eid int foreign key references employee(eid),
+	hourdescription varchar(max) not null,
+	hourdate datetime not null,
+	hourtimestamp datetime not null,
+	workhour decimal not null,
+	phid int primary key identity
+);	
+	
+create table project_messages	
+(	
+	project_pid int foreign key references project(pid),
+	employee_eid int foreign key references employee(eid),
+	projectmessage varchar(max) not null,
+	messagetimestamp datetime not null,
+	[filename] varchar (255),
+	[file] varbinary(max),
+	pmid int primary key identity
+);	
+	
+create table project_costs	
+(	
+	project_pid int foreign key references project(pid),
+	employee_eid int foreign key references employee(eid),
+	costdescription varchar(max) not null,
+	costdate datetime not null,
+	costtimestamp datetime not null,
+	cost int not null,
+	pcid int primary key identity
+);	
+	
+create table project_employees	
+(	
+	peid int primary key identity,
+	project_pid int foreign key references project(pid),
+	employee_eid int foreign key references employee(eid)
+);	
+	
+	
+insert into zipcodes (zip, place) values	
+	(101,'Reykjavík (Miðborg)'),
+	(103,'Reykjavík (Háaleiti og Bústaðir)'),
+	(104,'Reykjavík (Laugardalur)'),
+	(105,'Reykjavík (Hlíðar)'),
+	(107,'Reykjavík (Vesturbær)'),
+	(108,'Reykjavík (Háaleiti og Bústaðir)'),
+	(109,'Reykjavík (Breiðholt)'),
+	(110,'Reykjavík (Árbær)'),
+	(111,'Reykjavík (Breiðholt)'),
+	(112,'Reykjavík (Grafarvogur)'),
+	(113,'Reykjavík (Grafarholt og Úlfarsárdalur)'),
+	(116,'Reykjavík (Kjalarnes)'),
+	(150,'Reykjavík'),
+	(155,'Reykjavík'),
+	(170,'Seltjarnarnes'),
+	(190,'Vogar'),
+	(200,'Kópavogur'),
+	(201,'Kópavogur'),
+	(203,'Kópavogur'),
+	(210,'Garðabær'),
+	(220,'Hafnarfjörður'),
+	(221,'Hafnarfjörður'),
+	(225,'Álftanes'),
+	(230,'Reykjanesbær'),
+	(233,'Reykjanesbær'),
+	(235,'Reykjanesbær'),
+	(240,'Grindavík'),
+	(245,'Sandgerði'),
+	(250,'Garður'),
+	(260,'Reykjanesbær'),
+	(270,'Mosfellsbær'),
+	(271,'Mosfellsbær'),
+	(276,'Mosfellsbær'),
+	(300,'Akranes'),
+	(301,'Akranes'),
+	(310,'Borgarnes'),
+	(311,'Borgarnes'),
+	(320,'Reykholt'),
+	(340,'Stykkishólmur'),
+	(345,'Flatey'),
+	(350,'Grundarfjörður'),
+	(355,'Ólafsvík'),
+	(356,'Snæfellsbær'),
+	(360,'Hellissandur'),
+	(370,'Búðardalur'),
+	(371,'Búðardalur'),
+	(380,'Reykhólahreppur'),
+	(400,'Ísafjörður'),
+	(401,'Ísafjörður'),
+	(410,'Hnífsdalur'),
+	(415,'Bolungarvík'),
+	(420,'Súðavík'),
+	(425,'Flateyri'),
+	(430,'Suðureyri'),
+	(450,'Patreksfjörður'),
+	(451,'Patreksfjörður'),
+	(460,'Tálknafjörður'),
+	(465,'Bíldudalur'),
+	(470,'Þingeyri'),
+	(471,'Þingeyri'),
+	(500,'Staður'),
+	(510,'Hólmavík'),
+	(512,'Hólmavík'),
+	(520,'Drangsnes'),
+	(524,'Árneshreppur'),
+	(530,'Hvammstangi'),
+	(531,'Hvammstangi'),
+	(540,'Blönduós'),
+	(541,'Blönduós'),
+	(545,'Skagaströnd'),
+	(550,'Sauðárkrókur'),
+	(551,'Sauðárkrókur'),
+	(560,'Varmahlíð'),
+	(565,'Hofsós'),
+	(566,'Hofsós'),
+	(570,'Fljót'),
+	(580,'Siglufjörður'),
+	(600,'Akureyri'),
+	(601,'Akureyri'),
+	(603,'Akureyri'),
+	(610,'Grenivík'),
+	(611,'Grímsey'),
+	(620,'Dalvík'),
+	(621,'Dalvík'),
+	(625,'Ólafsfjörður'),
+	(630,'Hrísey'),
+	(640,'Húsavík'),
+	(641,'Húsavík'),
+	(645,'Fosshóll'),
+	(650,'Laugar'),
+	(660,'Mývatn'),
+	(670,'Kópasker'),
+	(671,'Kópaskeri'),
+	(675,'Raufarhöfn'),
+	(680,'Þórshöfn'),
+	(681,'Þórshöfn'),
+	(685,'Bakkafjörður'),
+	(690,'Vopnafjörður'),
+	(700,'Egilsstaðir'),
+	(701,'Egilsstaðir'),
+	(710,'Seyðisfjörður'),
+	(715,'Mjóifjörður'),
+	(720,'Borgarfjörður eystri'),
+	(730,'Reyðarfjörður'),
+	(735,'Eskifjörður'),
+	(740,'Neskaupstaður'),
+	(750,'Fáskrúðsfjörður'),
+	(755,'Stöðvarfjörður'),
+	(760,'Breiðdalsvík'),
+	(765,'Djúpivogur'),
+	(780,'Höfn'),
+	(781,'Höfn'),
+	(785,'Öræfi'),
+	(800,'Selfoss'),
+	(801,'Selfoss'),
+	(810,'Hveragerði'),
+	(815,'Þorlákshöfn'),
+	(816,'Ölfus'),
+	(820,'Eyrarbakki'),
+	(825,'Stokkseyri'),
+	(840,'Laugarvatn'),
+	(845,'Flúðir'),
+	(850,'Hella'),
+	(851,'Hella'),
+	(860,'Hvolsvöllur'),
+	(861,'Hvolsvöllur'),
+	(870,'Vík'),
+	(871,'Vík'),
+	(880,'Kirkjubæjarklaustur'),
+	(900,'Vestmannaeyjar')
+	
+insert into userroles(userrole) values	
+('user'),	
+('poweruser'),	
+('admin');	
+	
+insert into employee(username, [password], name, email, homeaddress, zip, phone, userrole_urid, profession) values	
+	('1','1','Hannes Hólmgeirsson', 'hannes73@gmail.com', 'Þingholtsstræti 12', 101, '5885522', 3, 'Smiður'),
+	('2','2','Ólöf Einarsdóttir', 'sexybabe84@hotmail.com', 'Hvassaleiti 9', 103,'5885522', 3, 'Rafvirki'),
+	('3','3','María Rán Sigmundsdóttir', 'maria@visir.is', 'Kleppsvegi 18', 105,'5885522', 3, 'Stuðbolti'),
+	('4','4','John Muhammad Ali Ben Muhamma', 'jaliben@gmail.com', 'Bollasmári 6', 200 ,'5885522',2, 'Bókari'),
+	('5','5','Sigríður Bachmann-Zoega Sveinsdóttir', 'sigsveins@hotmail.com', 'Mávanesi 8', 210 , '5885522', 2, 'Aðstoðarkona jólasveina'),
+	('6','6','Hrólfur H. Hrólfsson', 'hrolfurinn@gmail.com', 'Álfaskeiði 72', 220, '5885522', 1, 'Þúsundþjalakall'),
+	('7','7','Magnús Jón Jónsson', 'maggijohnny@hotmail.co.uk', 'Drekavellir 4', 221,'5885522', 1, 'Súperstjarna');
+	
+	
+insert into project (projectname, employee_eid, pdescription, pdate, projectisfinished) values	
+	('Laga þak í Hörpu', 2 , 'Ótrúlega flókið og skemmtilegt verkefni sem snýst um að skipta um alla nagla á suðurhlið renniþaks', '2012-06-18 10:34:20', 0),
+	('Skúra Seðlabankann', 3 , 'Skúra með WD-40 seðlavélina sem prentar 500kr. seðla', '2015-06-18 10:35:09', 0),
+	('Mála Alþingishúsið', 3 , 'Við málum alþingishúsið bleikt með græna doppur', '2015-04-18 10:34:09', 0),
+	('Byggja Paintball Arena', 1 , 'Við byggjum 10 000 m2 paintball arena fyrir leikskólabörn', '2015-06-18 10:34:09', 0);
+	
+insert into project_hours (project_pid, employee_eid, hourdescription, hourdate, hourtimestamp, workhour) values	
+	(1, 2 , 'var að skúra', '2015-05-18',  '2014-06-18 10:34:09', 3),
+	(1, 2 , 'var að skúra', '2015-05-19',  '2014-06-19 10:34:09', 8),
+	(1, 2 , 'var að skúra', '2015-05-20',  '2014-06-20 10:34:09', 3),
+	(2, 3 , 'Mála', '2015-04-18',  '2014-06-18 10:34:09', 4),
+	(2, 3 , 'Mála', '2015-04-19',  '2014-06-19 10:34:09', 4),
+	(2, 3 , 'Mála', '2015-04-20',  '2014-06-20 10:34:09', 4),
+	(2, 3 , 'Mála', '2015-04-25',  '2014-06-21 10:34:09', 4);
+	
+insert into project_messages (project_pid, employee_eid, projectmessage, messagetimestamp) values	
+	(1, 2, '*** Verkefni stofnað ***',  '2012-06-18 10:34:20'),
+	(2, 3, '*** Verkefni stofnað ***',  '2015-06-18 10:35:09'),
+	(3, 3, '*** Verkefni stofnað ***',  '2015-06-18 10:34:09'),
+	(4, 1, '*** Verkefni stofnað ***',  '2015-06-18 10:34:09'),
+	(1, 1, 'Where did you put the hammer?', '2014-11-19'),
+	(1, 3, 'Dont forget to leave in the evening.', '2015-01-20'),
+	(2, 3, 'Whose f*ing dog is always at the door?', '2015-03-07'),
+	(2, 2, 'What does the fox say?', '2015-05-05');
+	
+insert into project_costs (project_pid, employee_eid, costdescription, costdate, costtimestamp, cost) values	
+	(1, 1, '2 buckets of paint', '2014-11-19', '2014-11-20', 5000),
+	(1, 2, '1 shovel', '2015-01-20', '2015-01-25', 2800),
+	(1, 3, 'Laptop', '2015-03-08', '2015-03-15', 84900),
+	(2, 3, 'Coffeebeans', '2015-05-05', '2015-05-21', 1400);
+	
+insert into project_employees (project_pid, employee_eid) values	
+	(1, 2),
+	(1, 1),
+	(2,4),
+	(2,5),
+	(2,6),
+	(3,2),
+	(3,3),
+	(4,4);
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

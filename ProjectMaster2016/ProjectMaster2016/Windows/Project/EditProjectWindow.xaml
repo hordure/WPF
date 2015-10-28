@@ -1,0 +1,52 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:ProjectMaster2016" x:Class="ProjectMaster2016.EditProjectWindow"
+        Title="Breyta verkefni" Height="444" Width="710" Loaded="Window_Loaded" WindowStartupLocation="CenterScreen">
+    <Window.Resources>
+        <local:projectmasterDataSet x:Key="projectmasterDataSet"/>
+        <CollectionViewSource x:Key="projectViewSource" Source="{Binding  project, Source={StaticResource projectmasterDataSet}}"/>
+        <CollectionViewSource x:Key="employeeViewSource" Source="{Binding employee, Source={StaticResource projectmasterDataSet}}"/>
+        <CollectionViewSource x:Key="project_employeesViewSource" Source="{Binding project_employees, Source={StaticResource projectmasterDataSet}}"/>
+    </Window.Resources>
+    <Grid DataContext="{StaticResource projectViewSource}" Margin="0,0,2,0" >
+        <TextBox x:Name="txtprojectName" HorizontalAlignment="Left" Height="23" Margin="117,73,0,0" TextWrapping="Wrap"   VerticalAlignment="Top" Width="228" Text="{Binding / projectname}" />
+        <TextBox x:Name="txtPDescription" HorizontalAlignment="Left" Height="150" Margin="117,101,0,0" TextWrapping="Wrap" Text="{Binding / pdescription}" VerticalAlignment="Top" Width="228"/>
+
+        <Label x:Name="lblPDate" Content="{Binding pdate , Source={StaticResource projectViewSource}}"  ContentStringFormat="dd.MM.yyyy    kl. HH:mm" HorizontalAlignment="Left" Margin="117,293,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.6,0.5"/>
+
+        <Label Content="Titill" HorizontalAlignment="Left" Margin="71,73,0,0" VerticalAlignment="Top"/>
+        <Label Content="Lýsing" HorizontalAlignment="Left" Margin="60,104,0,0" VerticalAlignment="Top"/>
+        <Label  Content="Umsjónarmaður" HorizontalAlignment="Left" Margin="8,262,0,0" VerticalAlignment="Top"/>
+        <Label Content="Stofnað" HorizontalAlignment="Left" Margin="52,293,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="cbEmployee" DisplayMemberPath="name" SelectedValuePath="eid" HorizontalAlignment="Left" Margin="118,266,0,0" VerticalAlignment="Top" Width="183" ItemsSource="{Binding Mode=OneWay}" DataContext="{Binding Mode=OneWay, Source={StaticResource employeeViewSource}}" />
+        <Label Content="Lokið" HorizontalAlignment="Left" Margin="65,327,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.184,0.423"/>
+        <Label x:Name="lblIsFinished" MouseDown="lblFininshed_MouseDown" Content="Label" HorizontalAlignment="Left" Margin="118,327,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.526,0" MouseEnter="lblIsFinished_MouseEnter" MouseLeave="lblIsFinished_MouseLeave" Background="#FF759EE8" FontSize="18" FontWeight="Bold"/>
+        <Button x:Name="btnUpdate" Content="Vista" HorizontalAlignment="Left" Margin="131,371,0,0" VerticalAlignment="Top" Width="75" Click="btnUpdate_Click"/>
+        <Button x:Name="btnCancel" Content="Hætta við" HorizontalAlignment="Left" Margin="226,371,0,0" VerticalAlignment="Top" Width="75" Click="btnCancel_Click"/>
+        <Label Content="Verkefni" HorizontalAlignment="Left" Margin="291,8,0,0" VerticalAlignment="Top" Width="116" FontSize="24"/>
+        <Label Content="Starfsmenn verkefnis" HorizontalAlignment="Left" Margin="379,69,0,0" VerticalAlignment="Top"/>
+        <Grid>
+            <ListBox x:Name="lbProjectEmployees" DisplayMemberPath="name" SelectedValuePath="peid" HorizontalAlignment="Left" Height="250" Margin="376,105,0,0" VerticalAlignment="Top" Width="222" DataContext="{Binding Mode=OneWay, Source={StaticResource project_employeesViewSource}}" ItemsSource="{Binding Mode=OneWay}">
+                <ListBox.ContextMenu>
+                    <ContextMenu>
+                        <MenuItem Header="Bæta við"></MenuItem>
+                        <MenuItem Header="Eyða"></MenuItem>
+                    </ContextMenu>
+                </ListBox.ContextMenu>
+            </ListBox>
+
+        </Grid>
+        <Button x:Name="btnAddProjectEmployee" Margin="534,61,0,0" BorderBrush="#FFF9F3F3" BorderThickness="0" Background="Transparent" Height="34" VerticalAlignment="Top" HorizontalAlignment="Left" Width="26" Click="btnAddProjectEmployee_Click">
+            <Image Source="../../images/plus.png" Height="20" Width="21"  />
+        </Button>
+        <Button x:Name="btnRemoveProjectEmployee" Margin="567,64,0,0" BorderBrush="#FFF9F3F3" BorderThickness="0" Background="Transparent" Height="29" VerticalAlignment="Top" HorizontalAlignment="Left" Width="28" Click="btnRemoveProjectEmployee_Click">
+            <Image Source="../../images/minus.png" Height="15" />
+        </Button>
+
+
+
+
+    </Grid>
+</Window>
+

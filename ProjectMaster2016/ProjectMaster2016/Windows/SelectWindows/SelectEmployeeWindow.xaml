@@ -1,0 +1,34 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:ProjectMaster2016" x:Class="ProjectMaster2016.SelectEmployeeWindow"
+        Title="Velja starfsmann" Height="600" Width="800" Loaded="Window_Loaded" WindowStartupLocation="CenterScreen">
+    <Window.Resources>
+        <local:projectmasterDataSet x:Key="projectmasterDataSet"/>
+        <CollectionViewSource x:Key="employeeViewSource" Source="{Binding employee, Source={StaticResource projectmasterDataSet}}"/>
+    </Window.Resources>
+    <Grid DataContext="{StaticResource employeeViewSource}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <DataGrid x:Name="employeeDataGrid"  SelectedValuePath="eid" RowDetailsVisibilityMode="VisibleWhenSelected" Margin="10,59,10,74" ItemsSource="{Binding}" EnableRowVirtualization="True" AutoGenerateColumns="False" MouseDoubleClick="employeeDataGrid_MouseDoubleClick">
+            <DataGrid.Columns>
+                <DataGridTextColumn x:Name="nameColumn" Width="SizeToCells" Header="name" Binding="{Binding name}"/>
+                <DataGridTextColumn x:Name="emailColumn" Width="SizeToCells" Header="email" Binding="{Binding email}"/>
+                <DataGridTextColumn x:Name="phoneColumn" Width="SizeToCells" Header="phone" Binding="{Binding phone}"/>
+                <DataGridTemplateColumn x:Name="imgColumn" Width="60" Header="img">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Image Source="{Binding img}"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTextColumn x:Name="professionColumn" Width="SizeToCells" Header="profession" Binding="{Binding profession}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="btnAddEmployee" Content="Velja" Cursor="Hand" HorizontalAlignment="Left" Margin="323,516,0,0" VerticalAlignment="Top" Width="75" Click="btnAddEmployee_Click"/>
+        <Button x:Name="btnCancel" Content="Hætta við" Cursor="Hand" HorizontalAlignment="Left" Margin="418,516,0,0" VerticalAlignment="Top" Width="75" Click="btnCancel_Click"/>
+
+    </Grid>
+</Window>

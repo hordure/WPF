@@ -1,0 +1,107 @@
+﻿<Window
+        xmlns:wpf="http://wpfcontrols.com/"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:ProjectMaster2016" x:Class="ProjectMaster2016.ProjectCostsWindow"
+        Title="Kostnaðaryfirlit" Height="700" Width="1100" Loaded="Window_Loaded" WindowStyle="SingleBorderWindow" WindowStartupLocation="CenterScreen"  Background="White" WindowState="Normal">
+    <Window.Triggers>
+        <EventTrigger RoutedEvent="Window.Loaded">
+            <BeginStoryboard>
+                <Storyboard>
+                    <DoubleAnimation Storyboard.TargetProperty="Opacity" From="0" To="1" Duration="0:0:0.5" FillBehavior="HoldEnd" />
+                </Storyboard>
+            </BeginStoryboard>
+        </EventTrigger>
+
+    </Window.Triggers>
+    <Window.Resources>
+        <local:projectmasterDataSet x:Key="projectmasterDataSet"/>
+        <CollectionViewSource x:Key="project_costsViewSource" Source="{Binding project_costs, Source={StaticResource projectmasterDataSet}}"/>
+        <Style TargetType="ToolTip">
+            <Setter Property="MaxWidth" Value="300" />
+            <Setter Property="ContentTemplate">
+                <Setter.Value>
+                    <DataTemplate>
+                        <ContentPresenter Content="{TemplateBinding Content}"  >
+                            <ContentPresenter.Resources>
+                                <Style TargetType="{x:Type TextBlock}">
+                                    <Setter Property="TextWrapping" Value="Wrap" />
+                                </Style>
+                            </ContentPresenter.Resources>
+                        </ContentPresenter>
+                    </DataTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+
+
+
+    <Grid DataContext="{StaticResource project_costsViewSource}">
+        <DataGrid x:Name="project_costsDataGrid" SelectedValuePath="pcid" RowDetailsVisibilityMode="VisibleWhenSelected" Margin="22,106,26,59" ItemsSource="{Binding}" EnableRowVirtualization="True" AutoGenerateColumns="False" IsReadOnly="True">
+            <DataGrid.ContextMenu>
+                <ContextMenu x:Name="ctxMenu">
+                    <MenuItem x:Name="menu_EditProject" Header="Breyta" Click="menu_EditProjectCost_Click" />
+                    <MenuItem x:Name="menu_RemoveProject" Header="Eyða" Click="menu_RemoveProjectCost_Click"/>
+                </ContextMenu>
+
+            </DataGrid.ContextMenu>
+            <DataGrid.Columns>
+                <DataGridTextColumn x:Name="costtimestampColumn" MinWidth="90" Width="SizeToCells"  Header="Færsla stofnuð" Binding="{Binding costtimestamp, StringFormat='{}{0:dd.MM.yyyy kl.HH:mm}'}"  />
+                <DataGridTextColumn x:Name="project_pidColumn" Width="SizeToCells" MinWidth="50" Header="Verknr." Binding="{Binding project_pid}"/>
+                <DataGridTextColumn x:Name="projectnameColumn" Width="2*" MinWidth="35" Header="Verk" Binding="{Binding projectname}">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="TextTrimming" Value="CharacterEllipsis"/>
+                            <Setter Property="ToolTip" Value="{Binding Text, RelativeSource={RelativeSource Self}}"></Setter>
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn x:Name="employee_eidColumn" Width="SizeToCells" MinWidth="70" Header="Starfsm.nr." Binding="{Binding name}"/>
+                <DataGridTextColumn x:Name="project_employeenameColumn" Width="SizeToCells"  Header="project pid" Visibility="Hidden" Binding="{Binding name}"/>
+                <DataGridTextColumn x:Name="costdescriptionColumn" Width="4*" MinWidth="60" Header="Skýring" Binding="{Binding costdescription}">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="TextTrimming" Value="CharacterEllipsis"/>
+                            <Setter Property="ToolTip" Value="{Binding Text, RelativeSource={RelativeSource Self}}"></Setter>
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn x:Name="costdateColumn"  Width="SizeToCells" MinWidth="95" Header="Dags. kostnaðar" Binding="{Binding costdate, StringFormat='{}{0:dd.MM.yyyy}'}"  />
+                <DataGridTextColumn x:Name="costColumn" Width="SizeToCells" MinWidth="70"  Header="Upphæð" Binding="{Binding cost, StringFormat=C}" >
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="{x:Type TextBlock}">
+                            <Setter Property="HorizontalAlignment" Value="Right" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn x:Name="pcidColumn" Width="SizeToHeader" IsReadOnly="True" Visibility="Hidden"  Header="pcid" Binding="{Binding pcid}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="btnAddProject" Margin="0,59,26,0" BorderBrush="#FFF9F3F3" BorderThickness="1" Background="Transparent" Height="34" VerticalAlignment="Top" HorizontalAlignment="Right" Width="26" Click="btnAddProjectCost_Click">
+            <Image Source="../../images/plus.png" Height="20" Width="21" />
+        </Button>
+        <Label x:Name="lblName" Content="" Margin="0,0,11,0" VerticalAlignment="Top"  HorizontalAlignment="Right" />
+        <Button x:Name="btnLogOut" Content="Útskráning" Background="Transparent"  BorderBrush="Transparent" Cursor="Hand" HorizontalAlignment="Right" Margin="0,22,11,0" VerticalAlignment="Top" Width="76" Click="btnLogOut_Click" />
+        <DatePicker x:Name="dpFromDate" Margin="24,23,0,0" Height="26" VerticalAlignment="Top" HorizontalAlignment="Left" Width="95" >
+            <DatePicker.Resources>
+                <Style TargetType="DatePickerTextBox">
+                    <Setter Property="Text" Value="Frá dags."></Setter>
+                </Style>
+            </DatePicker.Resources>
+        </DatePicker>
+        <DatePicker x:Name="dpToDate" Margin="133,23,0,0" Height="26" VerticalAlignment="Top" HorizontalAlignment="Left" Width="95" >
+            <DatePicker.Resources>
+                <Style TargetType="DatePickerTextBox">
+                    <Setter Property="Text" Value="Til dags."></Setter>
+                </Style>
+            </DatePicker.Resources>
+        </DatePicker>
+        <Button x:Name="btnfillByDate" Content="Velja tímabil" HorizontalAlignment="Left" Margin="24,63,0,0" VerticalAlignment="Top" Width="95" Click="btnfillByDate_Click" />
+        <Label Content="Tímabil:" HorizontalAlignment="Left" Margin="368,57,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lbldateRange" Content="Label" HorizontalAlignment="Left" Margin="420,57,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btnSelectAll" Content="Velja allt" HorizontalAlignment="Left" Margin="133,63,0,0" VerticalAlignment="Top" Width="95" Click="btnSelectAll_Click"/>
+
+
+    </Grid>
+</Window>

@@ -1,0 +1,723 @@
+c:\users\forritunv2015\documents\visual studio 2012\Projects\ProjectMaster2016\ProjectMaster2016\bin\Debug\ProjectMaster2016.exe.config
+C:\Users\forritunv2015\Documents\Visual Studio 2012\Projects\ProjectMaster2016\ProjectMaster2016\bin\Debug\ProjectMaster2016.exe
+C:\Users\forritunv2015\Documents\Visual Studio 2012\Projects\ProjectMaster2016\ProjectMaster2016\bin\Debug\ProjectMaster2016.pdb
+C:\Users\forritunv2015\Documents\Visual Studio 2012\Projects\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.csprojResolveAssemblyReference.cache
+C:\Users\forritunv2015\Documents\Visual Studio 2012\Projects\ProjectMaster2016\ProjectMaster2016\obj\Debug\MainWindow.baml
+C:\Users\forritunv2015\Documents\Visual Studio 2012\Projects\ProjectMaster2016\ProjectMaster2016\obj\Debug\MainWindow.g.cs
+C:\Users\forritunv2015\Documents\Visual Studio 2012\Projects\ProjectMaster2016\ProjectMaster2016\obj\Debug\App.g.cs
+C:\Users\forritunv2015\Documents\Visual Studio 2012\Projects\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016_MarkupCompile.cache
+C:\Users\forritunv2015\Documents\Visual Studio 2012\Projects\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.g.resources
+C:\Users\forritunv2015\Documents\Visual Studio 2012\Projects\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.Properties.Resources.resources
+C:\Users\forritunv2015\Documents\Visual Studio 2012\Projects\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.csproj.GenerateResource.Cache
+C:\Users\forritunv2015\Documents\Visual Studio 2012\Projects\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.exe
+C:\Users\forritunv2015\Documents\Visual Studio 2012\Projects\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.pdb
+C:\Users\forritunv2015\Documents\Visual Studio 2012\Projects\ProjectMaster2016\ProjectMaster2016\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\forritunv2015\Documents\Visual Studio 2012\Projects\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016_MarkupCompile.lref
+C:\Users\admin\Dropbox\Forritun\New folder\ProjectMaster2016\ProjectMaster2016\bin\Debug\ProjectMaster2016.exe.config
+C:\Users\admin\Dropbox\Forritun\New folder\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.exe
+C:\Users\admin\Dropbox\Forritun\New folder\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.pdb
+C:\Users\admin\Dropbox\Forritun\New folder\ProjectMaster2016\ProjectMaster2016\bin\Debug\ProjectMaster2016.exe
+C:\Users\admin\Dropbox\Forritun\New folder\ProjectMaster2016\ProjectMaster2016\bin\Debug\ProjectMaster2016.pdb
+C:\Users\admin\Dropbox\Forritun\New folder\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.csprojResolveAssemblyReference.cache
+C:\Users\admin\Dropbox\Forritun\New folder\ProjectMaster2016\ProjectMaster2016\obj\Debug\MainWindow.baml
+C:\Users\admin\Dropbox\Forritun\New folder\ProjectMaster2016\ProjectMaster2016\obj\Debug\EditEmployeeWindow.g.cs
+C:\Users\admin\Dropbox\Forritun\New folder\ProjectMaster2016\ProjectMaster2016\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Dropbox\Forritun\New folder\ProjectMaster2016\ProjectMaster2016\obj\Debug\App.g.cs
+C:\Users\admin\Dropbox\Forritun\New folder\ProjectMaster2016\ProjectMaster2016\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\admin\Dropbox\Forritun\New folder\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016_MarkupCompile.cache
+C:\Users\admin\Dropbox\Forritun\New folder\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016_MarkupCompile.lref
+C:\Users\admin\Dropbox\Forritun\New folder\ProjectMaster2016\ProjectMaster2016\obj\Debug\EditEmployeeWindow.baml
+C:\Users\admin\Dropbox\Forritun\New folder\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.g.resources
+C:\Users\admin\Dropbox\Forritun\New folder\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.Properties.Resources.resources
+C:\Users\admin\Dropbox\Forritun\New folder\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.csproj.GenerateResource.Cache
+C:\Users\admin\Dropbox\Forritun\New folder\ProjectMaster2016\ProjectMaster2016\obj\Debug\EditProjectWindow.baml
+C:\Users\admin\Dropbox\Forritun\New folder\ProjectMaster2016\ProjectMaster2016\obj\Debug\EditProjectWindow.g.cs
+C:\Users\admin\Dropbox\Forritun\New folder\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectWindow.g.cs
+C:\Users\admin\Dropbox\Forritun\New folder\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectWindow.baml
+C:\Users\admin\Dropbox\Forritun\New folder\ProjectMaster2016\ProjectMaster2016\obj\Debug\AddProjectWindow.baml
+C:\Users\admin\Dropbox\Forritun\New folder\ProjectMaster2016\ProjectMaster2016\obj\Debug\AddProjectWindow.g.cs
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\ProjectMaster2016\bin\Debug\ProjectMaster2016.exe.config
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.exe
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.pdb
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\ProjectMaster2016\bin\Debug\ProjectMaster2016.exe
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\ProjectMaster2016\bin\Debug\ProjectMaster2016.pdb
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.csprojResolveAssemblyReference.cache
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\ProjectMaster2016\obj\Debug\MainWindow.baml
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\ProjectMaster2016\obj\Debug\AddProjectWindow.g.cs
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\ProjectMaster2016\obj\Debug\EditEmployeeWindow.g.cs
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\ProjectMaster2016\obj\Debug\EditProjectWindow.g.cs
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\ProjectMaster2016\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectWindow.g.cs
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\ProjectMaster2016\obj\Debug\App.g.cs
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\ProjectMaster2016\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016_MarkupCompile.cache
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016_MarkupCompile.lref
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\ProjectMaster2016\obj\Debug\AddProjectWindow.baml
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\ProjectMaster2016\obj\Debug\EditEmployeeWindow.baml
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\ProjectMaster2016\obj\Debug\EditProjectWindow.baml
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectWindow.baml
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.g.resources
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.Properties.Resources.resources
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.csproj.GenerateResource.Cache
+J:\ProjectMaster2016\ProjectMaster2016\ProjectMaster2016\bin\Debug\ProjectMaster2016.exe.config
+J:\ProjectMaster2016\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.exe
+J:\ProjectMaster2016\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.pdb
+C:\Users\forritunv2015\Desktop\ProjectMaster2016\ProjectMaster2016\bin\Debug\ProjectMaster2016.exe.config
+C:\Users\forritunv2015\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.exe
+C:\Users\forritunv2015\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.pdb
+C:\Users\forritunv2015\Desktop\ProjectMaster2016\ProjectMaster2016\bin\Debug\ProjectMaster2016.exe
+C:\Users\forritunv2015\Desktop\ProjectMaster2016\ProjectMaster2016\bin\Debug\ProjectMaster2016.pdb
+C:\Users\forritunv2015\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.csprojResolveAssemblyReference.cache
+C:\Users\forritunv2015\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\MainWindow.baml
+C:\Users\forritunv2015\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\MainWindow.g.cs
+C:\Users\forritunv2015\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\App.g.cs
+C:\Users\forritunv2015\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\forritunv2015\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016_MarkupCompile.cache
+C:\Users\forritunv2015\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016_MarkupCompile.lref
+C:\Users\forritunv2015\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.g.resources
+C:\Users\forritunv2015\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.Properties.Resources.resources
+C:\Users\forritunv2015\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.csproj.GenerateResource.Cache
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\bin\Debug\ProjectMaster2016.exe.config
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.exe
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.pdb
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\bin\Debug\ProjectMaster2016.exe
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\bin\Debug\ProjectMaster2016.pdb
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.csprojResolveAssemblyReference.cache
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\obj\Debug\MainWindow.baml
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\obj\Debug\App.g.cs
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016_MarkupCompile.cache
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016_MarkupCompile.lref
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.g.resources
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.Properties.Resources.resources
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\ProjectMaster2016\ProjectMaster2016\bin\Debug\ProjectMaster2016.exe.config
+C:\Users\admin\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.exe
+C:\Users\admin\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.pdb
+C:\Users\admin\Desktop\ProjectMaster2016\ProjectMaster2016\bin\Debug\ProjectMaster2016.exe
+C:\Users\admin\Desktop\ProjectMaster2016\ProjectMaster2016\bin\Debug\ProjectMaster2016.pdb
+C:\Users\admin\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\admin\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016_MarkupCompile.cache
+C:\Users\admin\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016_MarkupCompile.lref
+C:\Users\admin\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.g.resources
+C:\Users\admin\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.Properties.Resources.resources
+C:\Users\admin\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\AddProjectCostWindow.baml
+C:\Users\admin\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\AddProjectCostWindow.g.cs
+C:\Users\admin\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectEmployee\AddProjectEmployeeWindow.g.cs
+C:\Users\admin\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\AddProjectWindow.g.cs
+C:\Users\admin\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Employee\EditEmployeeWindow.g.cs
+C:\Users\admin\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\EditProjectWindow.g.cs
+C:\Users\admin\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\ProjectCostsWindow.g.cs
+C:\Users\admin\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\ProjectHoursWindow.g.cs
+C:\Users\admin\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\ProjectMessagesWindow.g.cs
+C:\Users\admin\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\ProjectWindow.g.cs
+C:\Users\admin\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectEmployee\AddProjectEmployeeWindow.baml
+C:\Users\admin\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\AddProjectWindow.baml
+C:\Users\admin\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Employee\EditEmployeeWindow.baml
+C:\Users\admin\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\EditProjectWindow.baml
+C:\Users\admin\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\ProjectCostsWindow.baml
+C:\Users\admin\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\ProjectHoursWindow.baml
+C:\Users\admin\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\ProjectMessagesWindow.baml
+C:\Users\admin\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\ProjectWindow.baml
+C:\Users\admin\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\EditProjectCostWindow.g.cs
+C:\Users\admin\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\EditProjectCost_EmployeeWindow.g.cs
+C:\Users\admin\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\EditProjectCost_ProjectWindow.g.cs
+C:\Users\admin\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\EditProjectCostWindow.baml
+C:\Users\admin\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\EditProjectCost_EmployeeWindow.baml
+C:\Users\admin\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\EditProjectCost_ProjectWindow.baml
+C:\Users\forritunv2015\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\AddProjectCost_Project.baml
+C:\Users\forritunv2015\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\AddProjectCost_Employee.g.cs
+C:\Users\forritunv2015\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\AddProjectCost_Project.g.cs
+C:\Users\forritunv2015\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\EditProjectCostWindow.g.cs
+C:\Users\forritunv2015\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\EditProjectCost_EmployeeWindow.g.cs
+C:\Users\forritunv2015\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\EditProjectCost_ProjectWindow.g.cs
+C:\Users\forritunv2015\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\RelatedEntriesWindow.g.cs
+C:\Users\forritunv2015\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\AddProjectCostWindow.g.cs
+C:\Users\forritunv2015\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectEmployee\AddProjectEmployeeWindow.g.cs
+C:\Users\forritunv2015\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\AddProjectWindow.g.cs
+C:\Users\forritunv2015\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Employee\EditEmployeeWindow.g.cs
+C:\Users\forritunv2015\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\EditProjectWindow.g.cs
+C:\Users\forritunv2015\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\ProjectCostsWindow.g.cs
+C:\Users\forritunv2015\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\ProjectHoursWindow.g.cs
+C:\Users\forritunv2015\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\ProjectMessagesWindow.g.cs
+C:\Users\forritunv2015\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\ProjectWindow.g.cs
+C:\Users\forritunv2015\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\AddProjectCost_Employee.baml
+C:\Users\forritunv2015\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\EditProjectCostWindow.baml
+C:\Users\forritunv2015\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\EditProjectCost_EmployeeWindow.baml
+C:\Users\forritunv2015\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\EditProjectCost_ProjectWindow.baml
+C:\Users\forritunv2015\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\RelatedEntriesWindow.baml
+C:\Users\forritunv2015\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\AddProjectCostWindow.baml
+C:\Users\forritunv2015\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectEmployee\AddProjectEmployeeWindow.baml
+C:\Users\forritunv2015\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\AddProjectWindow.baml
+C:\Users\forritunv2015\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Employee\EditEmployeeWindow.baml
+C:\Users\forritunv2015\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\EditProjectWindow.baml
+C:\Users\forritunv2015\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\ProjectCostsWindow.baml
+C:\Users\forritunv2015\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\ProjectHoursWindow.baml
+C:\Users\forritunv2015\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\ProjectMessagesWindow.baml
+C:\Users\forritunv2015\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\ProjectWindow.baml
+C:\Users\forritunv2015\documents\visual studio 2012\Projects\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\EditProjectCostWindow.g.cs
+C:\Users\forritunv2015\documents\visual studio 2012\Projects\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\AddProjectCostWindow.g.cs
+C:\Users\forritunv2015\documents\visual studio 2012\Projects\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectEmployee\AddProjectEmployeeWindow.g.cs
+C:\Users\forritunv2015\documents\visual studio 2012\Projects\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\AddProjectWindow.g.cs
+C:\Users\forritunv2015\documents\visual studio 2012\Projects\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Employee\EditEmployeeWindow.g.cs
+C:\Users\forritunv2015\documents\visual studio 2012\Projects\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\EditProjectWindow.g.cs
+C:\Users\forritunv2015\documents\visual studio 2012\Projects\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\ProjectCostsWindow.g.cs
+C:\Users\forritunv2015\documents\visual studio 2012\Projects\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\ProjectHoursWindow.g.cs
+C:\Users\forritunv2015\documents\visual studio 2012\Projects\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\ProjectMessagesWindow.g.cs
+C:\Users\forritunv2015\documents\visual studio 2012\Projects\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\ProjectWindow.g.cs
+C:\Users\forritunv2015\documents\visual studio 2012\Projects\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\EditProjectCostWindow.baml
+C:\Users\forritunv2015\documents\visual studio 2012\Projects\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\AddProjectCostWindow.baml
+C:\Users\forritunv2015\documents\visual studio 2012\Projects\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectEmployee\AddProjectEmployeeWindow.baml
+C:\Users\forritunv2015\documents\visual studio 2012\Projects\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\AddProjectWindow.baml
+C:\Users\forritunv2015\documents\visual studio 2012\Projects\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Employee\EditEmployeeWindow.baml
+C:\Users\forritunv2015\documents\visual studio 2012\Projects\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\EditProjectWindow.baml
+C:\Users\forritunv2015\documents\visual studio 2012\Projects\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\ProjectCostsWindow.baml
+C:\Users\forritunv2015\documents\visual studio 2012\Projects\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\ProjectHoursWindow.baml
+C:\Users\forritunv2015\documents\visual studio 2012\Projects\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\ProjectMessagesWindow.baml
+C:\Users\forritunv2015\documents\visual studio 2012\Projects\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\ProjectWindow.baml
+C:\Users\forritunv2015\documents\visual studio 2012\Projects\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\AddProjectMessageWindow.g.cs
+C:\Users\forritunv2015\documents\visual studio 2012\Projects\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\AddProjectMessageWindow.baml
+C:\Users\admin\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\AddProjectMessageWindow.g.cs
+C:\Users\admin\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\AddProjectMessageWindow.baml
+C:\Users\admin\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\AddProjectCost_Employee.g.cs
+C:\Users\admin\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\AddProjectCost_Project.g.cs
+C:\Users\admin\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\AddProjectCost_Employee.baml
+C:\Users\admin\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\AddProjectCost_Project.baml
+C:\Users\admin\Desktop\ProjectMaster2016\ProjectMaster2016\bin\Debug\WPFTextBoxAutoComplete.dll
+C:\Users\admin\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\MainWindow.baml
+C:\Users\admin\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\RelatedEntriesWindow.g.cs
+C:\Users\admin\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\RelatedEntriesWindow.baml
+C:\Users\admin\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\AddProjectHourWindow.baml
+C:\Users\admin\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\EditProjectHoursWindow.baml
+C:\Users\admin\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\AddProjectHourWindow.g.cs
+C:\Users\admin\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\EditProjectHoursWindow.g.cs
+C:\Users\admin\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\AddProjectHours_ProjectWindow.g.cs
+C:\Users\admin\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\AddProjectHours_ProjectWindow.baml
+C:\Users\admin\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\SelectProjectWindow.g.cs
+C:\Users\admin\Desktop\ProjectMaster2016\ProjectMaster2016\obj\Debug\SelectProjectWindow.baml
+E:\ProjectMaster2016\ProjectMaster2016\bin\Debug\ProjectMaster2016.exe.config
+E:\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.exe
+E:\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.pdb
+E:\ProjectMaster2016\ProjectMaster2016\bin\Debug\ProjectMaster2016.exe
+E:\ProjectMaster2016\ProjectMaster2016\bin\Debug\ProjectMaster2016.pdb
+E:\ProjectMaster2016\ProjectMaster2016\bin\Debug\WPFTextBoxAutoComplete.dll
+E:\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.csprojResolveAssemblyReference.cache
+E:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\AddProjectHourWindow.baml
+E:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\EditProjectHoursWindow.baml
+E:\ProjectMaster2016\ProjectMaster2016\obj\Debug\MainWindow.baml
+E:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\AddProjectHourWindow.g.cs
+E:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\EditProjectHoursWindow.g.cs
+E:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\EditProjectCostWindow.g.cs
+E:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\RelatedEntriesWindow.g.cs
+E:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\AddProjectCostWindow.g.cs
+E:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectEmployee\AddProjectEmployeeWindow.g.cs
+E:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\AddProjectMessageWindow.g.cs
+E:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\AddProjectWindow.g.cs
+E:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Employee\EditEmployeeWindow.g.cs
+E:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\EditProjectWindow.g.cs
+E:\ProjectMaster2016\ProjectMaster2016\obj\Debug\MainWindow.g.cs
+E:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\ProjectCostsWindow.g.cs
+E:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\ProjectHoursWindow.g.cs
+E:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\ProjectMessagesWindow.g.cs
+E:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\ProjectWindow.g.cs
+E:\ProjectMaster2016\ProjectMaster2016\obj\Debug\App.g.cs
+E:\ProjectMaster2016\ProjectMaster2016\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016_MarkupCompile.cache
+E:\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016_MarkupCompile.lref
+E:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\EditProjectCostWindow.baml
+E:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\RelatedEntriesWindow.baml
+E:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\AddProjectCostWindow.baml
+E:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectEmployee\AddProjectEmployeeWindow.baml
+E:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\AddProjectMessageWindow.baml
+E:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\AddProjectWindow.baml
+E:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Employee\EditEmployeeWindow.baml
+E:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\EditProjectWindow.baml
+E:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\ProjectCostsWindow.baml
+E:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\ProjectHoursWindow.baml
+E:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\ProjectMessagesWindow.baml
+E:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\ProjectWindow.baml
+E:\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.g.resources
+E:\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.Properties.Resources.resources
+E:\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.csproj.GenerateResource.Cache
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\bin\Debug\WPFTextBoxAutoComplete.dll
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\AddProjectHourWindow.baml
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\EditProjectHoursWindow.baml
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\obj\Debug\AddProjectHours_ProjectWindow.g.cs
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\obj\Debug\SelectProjectWindow.g.cs
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\AddProjectHourWindow.g.cs
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\EditProjectHoursWindow.g.cs
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\AddProjectCost_Employee.g.cs
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\AddProjectCost_Project.g.cs
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\EditProjectCostWindow.g.cs
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\EditProjectCost_EmployeeWindow.g.cs
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\EditProjectCost_ProjectWindow.g.cs
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\RelatedEntriesWindow.g.cs
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\AddProjectCostWindow.g.cs
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectEmployee\AddProjectEmployeeWindow.g.cs
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\AddProjectMessageWindow.g.cs
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\AddProjectWindow.g.cs
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Employee\EditEmployeeWindow.g.cs
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\EditProjectWindow.g.cs
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\ProjectCostsWindow.g.cs
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\ProjectHoursWindow.g.cs
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\ProjectMessagesWindow.g.cs
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\ProjectWindow.g.cs
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\obj\Debug\AddProjectHours_ProjectWindow.baml
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\obj\Debug\SelectProjectWindow.baml
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\AddProjectCost_Employee.baml
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\AddProjectCost_Project.baml
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\EditProjectCostWindow.baml
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\EditProjectCost_EmployeeWindow.baml
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\EditProjectCost_ProjectWindow.baml
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\RelatedEntriesWindow.baml
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\AddProjectCostWindow.baml
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectEmployee\AddProjectEmployeeWindow.baml
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\AddProjectMessageWindow.baml
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\AddProjectWindow.baml
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Employee\EditEmployeeWindow.baml
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\EditProjectWindow.baml
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\ProjectCostsWindow.baml
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\ProjectHoursWindow.baml
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\ProjectMessagesWindow.baml
+C:\Users\admin\Dropbox\Forritun\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\ProjectWindow.baml
+J:\ProjectMaster2016\ProjectMaster2016\bin\Debug\ProjectMaster2016.exe.config
+J:\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.exe
+J:\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.pdb
+J:\ProjectMaster2016\ProjectMaster2016\bin\Debug\ProjectMaster2016.exe
+J:\ProjectMaster2016\ProjectMaster2016\bin\Debug\ProjectMaster2016.pdb
+J:\ProjectMaster2016\ProjectMaster2016\bin\Debug\WPFTextBoxAutoComplete.dll
+J:\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.csprojResolveAssemblyReference.cache
+J:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\AddProjectHourWindow.baml
+J:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\EditProjectHoursWindow.baml
+J:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\AddProjectHourWindow.g.cs
+J:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\EditProjectHoursWindow.g.cs
+J:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\EditProjectCostWindow.g.cs
+J:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\RelatedEntriesWindow.g.cs
+J:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\AddProjectCostWindow.g.cs
+J:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectEmployee\AddProjectEmployeeWindow.g.cs
+J:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\AddProjectMessageWindow.g.cs
+J:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\AddProjectWindow.g.cs
+J:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Employee\EditEmployeeWindow.g.cs
+J:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\EditProjectWindow.g.cs
+J:\ProjectMaster2016\ProjectMaster2016\obj\Debug\MainWindow.g.cs
+J:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\ProjectCostsWindow.g.cs
+J:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\ProjectHoursWindow.g.cs
+J:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\ProjectMessagesWindow.g.cs
+J:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\ProjectWindow.g.cs
+J:\ProjectMaster2016\ProjectMaster2016\obj\Debug\App.g.cs
+J:\ProjectMaster2016\ProjectMaster2016\obj\Debug\GeneratedInternalTypeHelper.g.cs
+J:\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016_MarkupCompile.cache
+J:\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016_MarkupCompile.lref
+J:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\EditProjectCostWindow.baml
+J:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\RelatedEntriesWindow.baml
+J:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\AddProjectCostWindow.baml
+J:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectEmployee\AddProjectEmployeeWindow.baml
+J:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\AddProjectMessageWindow.baml
+J:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\AddProjectWindow.baml
+J:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Employee\EditEmployeeWindow.baml
+J:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\EditProjectWindow.baml
+J:\ProjectMaster2016\ProjectMaster2016\obj\Debug\MainWindow.baml
+J:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\ProjectCostsWindow.baml
+J:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\ProjectHoursWindow.baml
+J:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\ProjectMessagesWindow.baml
+J:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\ProjectWindow.baml
+J:\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.g.resources
+J:\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.Properties.Resources.resources
+J:\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.csproj.GenerateResource.Cache
+J:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\UserWindow.baml
+J:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\EditProjectMessageWindow.g.cs
+J:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\SelectWindows\SelectEmployeeWindow.g.cs
+J:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\SelectWindows\SelectProjectWindow.g.cs
+J:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\UserWindow.g.cs
+J:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\EditProjectMessageWindow.baml
+J:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\SelectWindows\SelectEmployeeWindow.baml
+J:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\SelectWindows\SelectProjectWindow.baml
+E:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\EditProjectMessageWindow.g.cs
+E:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\SelectWindows\SelectEmployeeWindow.g.cs
+E:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\SelectWindows\SelectProjectWindow.g.cs
+E:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\UserWindow.g.cs
+E:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\EditProjectMessageWindow.baml
+E:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\SelectWindows\SelectEmployeeWindow.baml
+E:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\SelectWindows\SelectProjectWindow.baml
+E:\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\UserWindow.baml
+E:\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectDetailsWindow.baml
+E:\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectDetailsWindow.g.cs
+J:\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectDetailsWindow.baml
+J:\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectDetailsWindow.g.cs
+C:\Users\forritunv2015\Documents\Visual Studio 2012\Projects\ProjectMaster2016\ProjectMaster2016\bin\Debug\WPFTextBoxAutoComplete.dll
+C:\Users\forritunv2015\Documents\Visual Studio 2012\Projects\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\AddProjectHourWindow.baml
+C:\Users\forritunv2015\Documents\Visual Studio 2012\Projects\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\EditProjectHoursWindow.baml
+C:\Users\forritunv2015\Documents\Visual Studio 2012\Projects\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectDetailsWindow.g.cs
+C:\Users\forritunv2015\Documents\Visual Studio 2012\Projects\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\EditProjectMessageWindow.g.cs
+C:\Users\forritunv2015\Documents\Visual Studio 2012\Projects\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\SelectWindows\SelectEmployeeWindow.g.cs
+C:\Users\forritunv2015\Documents\Visual Studio 2012\Projects\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\SelectWindows\SelectProjectWindow.g.cs
+C:\Users\forritunv2015\Documents\Visual Studio 2012\Projects\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\UserWindow.g.cs
+C:\Users\forritunv2015\Documents\Visual Studio 2012\Projects\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\AddProjectHourWindow.g.cs
+C:\Users\forritunv2015\Documents\Visual Studio 2012\Projects\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\EditProjectHoursWindow.g.cs
+C:\Users\forritunv2015\Documents\Visual Studio 2012\Projects\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\RelatedEntriesWindow.g.cs
+C:\Users\forritunv2015\Documents\Visual Studio 2012\Projects\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectDetailsWindow.baml
+C:\Users\forritunv2015\Documents\Visual Studio 2012\Projects\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\EditProjectMessageWindow.baml
+C:\Users\forritunv2015\Documents\Visual Studio 2012\Projects\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\SelectWindows\SelectEmployeeWindow.baml
+C:\Users\forritunv2015\Documents\Visual Studio 2012\Projects\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\SelectWindows\SelectProjectWindow.baml
+C:\Users\forritunv2015\Documents\Visual Studio 2012\Projects\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\UserWindow.baml
+C:\Users\forritunv2015\Documents\Visual Studio 2012\Projects\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\RelatedEntriesWindow.baml
+C:\Users\forritunv2015\Documents\Visual Studio 2012\Projects\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Employee\EmployeeWindow.g.cs
+C:\Users\forritunv2015\Documents\Visual Studio 2012\Projects\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Employee\EmployeeWindow.baml
+C:\Users\forritunv2015\Documents\Visual Studio 2012\Projects\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Employee\AddEmployeeWindow.g.cs
+C:\Users\forritunv2015\Documents\Visual Studio 2012\Projects\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Employee\AddEmployeeWindow.baml
+E:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\bin\Debug\ProjectMaster2016.exe.config
+E:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.exe
+E:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.pdb
+E:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\bin\Debug\ProjectMaster2016.exe
+E:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\bin\Debug\ProjectMaster2016.pdb
+E:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\bin\Debug\WPFTextBoxAutoComplete.dll
+E:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.csprojResolveAssemblyReference.cache
+E:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\AddProjectHourWindow.baml
+E:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\EditProjectHoursWindow.baml
+E:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Employee\AddEmployeeWindow.g.cs
+E:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Employee\EmployeeWindow.g.cs
+E:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\EditProjectMessageWindow.g.cs
+E:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\SelectWindows\SelectEmployeeWindow.g.cs
+E:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\SelectWindows\SelectProjectWindow.g.cs
+E:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\UserWindow.g.cs
+E:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\AddProjectHourWindow.g.cs
+E:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\EditProjectHoursWindow.g.cs
+E:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\EditProjectCostWindow.g.cs
+E:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\RelatedEntriesWindow.g.cs
+E:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\AddProjectCostWindow.g.cs
+E:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectEmployee\AddProjectEmployeeWindow.g.cs
+E:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\AddProjectMessageWindow.g.cs
+E:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\AddProjectWindow.g.cs
+E:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Employee\EditEmployeeWindow.g.cs
+E:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\EditProjectWindow.g.cs
+E:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\MainWindow.g.cs
+E:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\ProjectCostsWindow.g.cs
+E:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\ProjectHoursWindow.g.cs
+E:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\ProjectMessagesWindow.g.cs
+E:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\ProjectWindow.g.cs
+E:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\App.g.cs
+E:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016_MarkupCompile.cache
+E:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016_MarkupCompile.lref
+E:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Employee\AddEmployeeWindow.baml
+E:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Employee\EmployeeWindow.baml
+E:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\EditProjectMessageWindow.baml
+E:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\SelectWindows\SelectEmployeeWindow.baml
+E:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\SelectWindows\SelectProjectWindow.baml
+E:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\UserWindow.baml
+E:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\EditProjectCostWindow.baml
+E:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\RelatedEntriesWindow.baml
+E:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\AddProjectCostWindow.baml
+E:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectEmployee\AddProjectEmployeeWindow.baml
+E:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\AddProjectMessageWindow.baml
+E:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\AddProjectWindow.baml
+E:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Employee\EditEmployeeWindow.baml
+E:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\EditProjectWindow.baml
+E:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\MainWindow.baml
+E:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\ProjectCostsWindow.baml
+E:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\ProjectHoursWindow.baml
+E:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\ProjectMessagesWindow.baml
+E:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\ProjectWindow.baml
+E:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.g.resources
+E:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.Properties.Resources.resources
+E:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.csproj.GenerateResource.Cache
+J:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\bin\Debug\ProjectMaster2016.exe.config
+J:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.exe
+J:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.pdb
+J:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\bin\Debug\ProjectMaster2016.exe
+J:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\bin\Debug\ProjectMaster2016.pdb
+J:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\bin\Debug\WPFTextBoxAutoComplete.dll
+J:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.csprojResolveAssemblyReference.cache
+J:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\AddProjectHourWindow.baml
+J:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\EditProjectHoursWindow.baml
+J:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Employee\AddEmployeeWindow.g.cs
+J:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Employee\EmployeeWindow.g.cs
+J:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\EditProjectMessageWindow.g.cs
+J:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\SelectWindows\SelectEmployeeWindow.g.cs
+J:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\SelectWindows\SelectProjectWindow.g.cs
+J:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\UserWindow.g.cs
+J:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\AddProjectHourWindow.g.cs
+J:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\EditProjectHoursWindow.g.cs
+J:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\EditProjectCostWindow.g.cs
+J:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\RelatedEntriesWindow.g.cs
+J:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\AddProjectCostWindow.g.cs
+J:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectEmployee\AddProjectEmployeeWindow.g.cs
+J:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\AddProjectMessageWindow.g.cs
+J:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\AddProjectWindow.g.cs
+J:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Employee\EditEmployeeWindow.g.cs
+J:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\EditProjectWindow.g.cs
+J:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\MainWindow.g.cs
+J:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\ProjectCostsWindow.g.cs
+J:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\ProjectHoursWindow.g.cs
+J:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\ProjectMessagesWindow.g.cs
+J:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\ProjectWindow.g.cs
+J:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\App.g.cs
+J:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\GeneratedInternalTypeHelper.g.cs
+J:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016_MarkupCompile.cache
+J:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016_MarkupCompile.lref
+J:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Employee\AddEmployeeWindow.baml
+J:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Employee\EmployeeWindow.baml
+J:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\EditProjectMessageWindow.baml
+J:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\SelectWindows\SelectEmployeeWindow.baml
+J:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\SelectWindows\SelectProjectWindow.baml
+J:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\UserWindow.baml
+J:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\EditProjectCostWindow.baml
+J:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\RelatedEntriesWindow.baml
+J:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\AddProjectCostWindow.baml
+J:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectEmployee\AddProjectEmployeeWindow.baml
+J:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\AddProjectMessageWindow.baml
+J:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\AddProjectWindow.baml
+J:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Employee\EditEmployeeWindow.baml
+J:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\EditProjectWindow.baml
+J:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\MainWindow.baml
+J:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\ProjectCostsWindow.baml
+J:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\ProjectHoursWindow.baml
+J:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\ProjectMessagesWindow.baml
+J:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\ProjectWindow.baml
+J:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.g.resources
+J:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.Properties.Resources.resources
+J:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.csproj.GenerateResource.Cache
+J:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectDetailsWindow.g.cs
+J:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectDetailsWindow.baml
+E:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectDetailsWindow.g.cs
+E:\ProjectMaster2016-06-08-Peter\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectDetailsWindow.baml
+E:\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\bin\Debug\ProjectMaster2016.exe.config
+E:\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.exe
+E:\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.pdb
+E:\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\bin\Debug\ProjectMaster2016.exe
+E:\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\bin\Debug\ProjectMaster2016.pdb
+E:\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\bin\Debug\WPFTextBoxAutoComplete.dll
+E:\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.csprojResolveAssemblyReference.cache
+E:\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\AddProjectHourWindow.baml
+E:\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\EditProjectHoursWindow.baml
+E:\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectDetailsWindow.g.cs
+E:\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Employee\AddEmployeeWindow.g.cs
+E:\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Employee\EmployeeWindow.g.cs
+E:\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\EditProjectMessageWindow.g.cs
+E:\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\SelectWindows\SelectEmployeeWindow.g.cs
+E:\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\SelectWindows\SelectProjectWindow.g.cs
+E:\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\UserWindow.g.cs
+E:\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\AddProjectHourWindow.g.cs
+E:\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\EditProjectHoursWindow.g.cs
+E:\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\EditProjectCostWindow.g.cs
+E:\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\RelatedEntriesWindow.g.cs
+E:\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\AddProjectCostWindow.g.cs
+E:\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectEmployee\AddProjectEmployeeWindow.g.cs
+E:\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\AddProjectMessageWindow.g.cs
+E:\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\AddProjectWindow.g.cs
+E:\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Employee\EditEmployeeWindow.g.cs
+E:\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\EditProjectWindow.g.cs
+E:\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\MainWindow.g.cs
+E:\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\ProjectCostsWindow.g.cs
+E:\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\ProjectHoursWindow.g.cs
+E:\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\ProjectMessagesWindow.g.cs
+E:\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\ProjectWindow.g.cs
+E:\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\App.g.cs
+E:\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016_MarkupCompile.cache
+E:\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016_MarkupCompile.lref
+E:\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectDetailsWindow.baml
+E:\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Employee\AddEmployeeWindow.baml
+E:\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Employee\EmployeeWindow.baml
+E:\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\EditProjectMessageWindow.baml
+E:\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\SelectWindows\SelectEmployeeWindow.baml
+E:\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\SelectWindows\SelectProjectWindow.baml
+E:\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\UserWindow.baml
+E:\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\EditProjectCostWindow.baml
+E:\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\RelatedEntriesWindow.baml
+E:\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\AddProjectCostWindow.baml
+E:\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectEmployee\AddProjectEmployeeWindow.baml
+E:\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\AddProjectMessageWindow.baml
+E:\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\AddProjectWindow.baml
+E:\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Employee\EditEmployeeWindow.baml
+E:\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\EditProjectWindow.baml
+E:\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\MainWindow.baml
+E:\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\ProjectCostsWindow.baml
+E:\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\ProjectHoursWindow.baml
+E:\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\ProjectMessagesWindow.baml
+E:\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\ProjectWindow.baml
+E:\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.g.resources
+E:\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.Properties.Resources.resources
+E:\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.csproj.GenerateResource.Cache
+C:\Users\ByggEining\Desktop\PM - skil\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\bin\Debug\ProjectMaster2016.exe.config
+C:\Users\ByggEining\Desktop\PM - skil\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.exe
+C:\Users\ByggEining\Desktop\PM - skil\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.pdb
+C:\Users\ByggEining\Desktop\PM - skil\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\bin\Debug\ProjectMaster2016.exe
+C:\Users\ByggEining\Desktop\PM - skil\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\bin\Debug\ProjectMaster2016.pdb
+C:\Users\ByggEining\Desktop\PM - skil\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\bin\Debug\WPFTextBoxAutoComplete.dll
+C:\Users\ByggEining\Desktop\PM - skil\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.csprojResolveAssemblyReference.cache
+C:\Users\ByggEining\Desktop\PM - skil\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\AddProjectHourWindow.baml
+C:\Users\ByggEining\Desktop\PM - skil\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\EditProjectHoursWindow.baml
+C:\Users\ByggEining\Desktop\PM - skil\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectDetailsWindow.g.cs
+C:\Users\ByggEining\Desktop\PM - skil\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Employee\AddEmployeeWindow.g.cs
+C:\Users\ByggEining\Desktop\PM - skil\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Employee\EmployeeWindow.g.cs
+C:\Users\ByggEining\Desktop\PM - skil\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\EditProjectMessageWindow.g.cs
+C:\Users\ByggEining\Desktop\PM - skil\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\SelectWindows\SelectEmployeeWindow.g.cs
+C:\Users\ByggEining\Desktop\PM - skil\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\SelectWindows\SelectProjectWindow.g.cs
+C:\Users\ByggEining\Desktop\PM - skil\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\UserWindow.g.cs
+C:\Users\ByggEining\Desktop\PM - skil\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\AddProjectHourWindow.g.cs
+C:\Users\ByggEining\Desktop\PM - skil\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\EditProjectHoursWindow.g.cs
+C:\Users\ByggEining\Desktop\PM - skil\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\EditProjectCostWindow.g.cs
+C:\Users\ByggEining\Desktop\PM - skil\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\RelatedEntriesWindow.g.cs
+C:\Users\ByggEining\Desktop\PM - skil\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\AddProjectCostWindow.g.cs
+C:\Users\ByggEining\Desktop\PM - skil\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectEmployee\AddProjectEmployeeWindow.g.cs
+C:\Users\ByggEining\Desktop\PM - skil\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\AddProjectMessageWindow.g.cs
+C:\Users\ByggEining\Desktop\PM - skil\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\AddProjectWindow.g.cs
+C:\Users\ByggEining\Desktop\PM - skil\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Employee\EditEmployeeWindow.g.cs
+C:\Users\ByggEining\Desktop\PM - skil\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\EditProjectWindow.g.cs
+C:\Users\ByggEining\Desktop\PM - skil\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\MainWindow.g.cs
+C:\Users\ByggEining\Desktop\PM - skil\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\ProjectCostsWindow.g.cs
+C:\Users\ByggEining\Desktop\PM - skil\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\ProjectHoursWindow.g.cs
+C:\Users\ByggEining\Desktop\PM - skil\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\ProjectMessagesWindow.g.cs
+C:\Users\ByggEining\Desktop\PM - skil\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\ProjectWindow.g.cs
+C:\Users\ByggEining\Desktop\PM - skil\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\App.g.cs
+C:\Users\ByggEining\Desktop\PM - skil\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ByggEining\Desktop\PM - skil\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016_MarkupCompile.cache
+C:\Users\ByggEining\Desktop\PM - skil\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016_MarkupCompile.lref
+C:\Users\ByggEining\Desktop\PM - skil\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectDetailsWindow.baml
+C:\Users\ByggEining\Desktop\PM - skil\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Employee\AddEmployeeWindow.baml
+C:\Users\ByggEining\Desktop\PM - skil\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Employee\EmployeeWindow.baml
+C:\Users\ByggEining\Desktop\PM - skil\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\EditProjectMessageWindow.baml
+C:\Users\ByggEining\Desktop\PM - skil\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\SelectWindows\SelectEmployeeWindow.baml
+C:\Users\ByggEining\Desktop\PM - skil\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\SelectWindows\SelectProjectWindow.baml
+C:\Users\ByggEining\Desktop\PM - skil\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\UserWindow.baml
+C:\Users\ByggEining\Desktop\PM - skil\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\EditProjectCostWindow.baml
+C:\Users\ByggEining\Desktop\PM - skil\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\RelatedEntriesWindow.baml
+C:\Users\ByggEining\Desktop\PM - skil\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\AddProjectCostWindow.baml
+C:\Users\ByggEining\Desktop\PM - skil\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectEmployee\AddProjectEmployeeWindow.baml
+C:\Users\ByggEining\Desktop\PM - skil\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\AddProjectMessageWindow.baml
+C:\Users\ByggEining\Desktop\PM - skil\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\AddProjectWindow.baml
+C:\Users\ByggEining\Desktop\PM - skil\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Employee\EditEmployeeWindow.baml
+C:\Users\ByggEining\Desktop\PM - skil\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\EditProjectWindow.baml
+C:\Users\ByggEining\Desktop\PM - skil\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\MainWindow.baml
+C:\Users\ByggEining\Desktop\PM - skil\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\ProjectCostsWindow.baml
+C:\Users\ByggEining\Desktop\PM - skil\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\ProjectHoursWindow.baml
+C:\Users\ByggEining\Desktop\PM - skil\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\ProjectMessagesWindow.baml
+C:\Users\ByggEining\Desktop\PM - skil\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\ProjectWindow.baml
+C:\Users\ByggEining\Desktop\PM - skil\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.g.resources
+C:\Users\ByggEining\Desktop\PM - skil\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.Properties.Resources.resources
+C:\Users\ByggEining\Desktop\PM - skil\ProjectMaster10.06.2015\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.csproj.GenerateResource.Cache
+C:\Users\admin\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\bin\Debug\ProjectMaster2016.exe.config
+C:\Users\admin\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.exe
+C:\Users\admin\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.pdb
+C:\Users\admin\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\bin\Debug\ProjectMaster2016.exe
+C:\Users\admin\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\bin\Debug\ProjectMaster2016.pdb
+C:\Users\admin\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\bin\Debug\WPFTextBoxAutoComplete.dll
+C:\Users\admin\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.csprojResolveAssemblyReference.cache
+C:\Users\admin\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\AddProjectHourWindow.baml
+C:\Users\admin\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\EditProjectHoursWindow.baml
+C:\Users\admin\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectDetailsWindow.g.cs
+C:\Users\admin\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Employee\AddEmployeeWindow.g.cs
+C:\Users\admin\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Employee\EmployeeWindow.g.cs
+C:\Users\admin\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\EditProjectMessageWindow.g.cs
+C:\Users\admin\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\SelectWindows\SelectEmployeeWindow.g.cs
+C:\Users\admin\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\SelectWindows\SelectProjectWindow.g.cs
+C:\Users\admin\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\UserWindow.g.cs
+C:\Users\admin\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\AddProjectHourWindow.g.cs
+C:\Users\admin\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\EditProjectHoursWindow.g.cs
+C:\Users\admin\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\EditProjectCostWindow.g.cs
+C:\Users\admin\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\RelatedEntriesWindow.g.cs
+C:\Users\admin\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\AddProjectCostWindow.g.cs
+C:\Users\admin\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectEmployee\AddProjectEmployeeWindow.g.cs
+C:\Users\admin\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\AddProjectMessageWindow.g.cs
+C:\Users\admin\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\AddProjectWindow.g.cs
+C:\Users\admin\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Employee\EditEmployeeWindow.g.cs
+C:\Users\admin\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\EditProjectWindow.g.cs
+C:\Users\admin\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\ProjectCostsWindow.g.cs
+C:\Users\admin\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\ProjectHoursWindow.g.cs
+C:\Users\admin\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\ProjectMessagesWindow.g.cs
+C:\Users\admin\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\ProjectWindow.g.cs
+C:\Users\admin\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\App.g.cs
+C:\Users\admin\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\admin\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016_MarkupCompile.cache
+C:\Users\admin\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016_MarkupCompile.lref
+C:\Users\admin\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectDetailsWindow.baml
+C:\Users\admin\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Employee\AddEmployeeWindow.baml
+C:\Users\admin\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Employee\EmployeeWindow.baml
+C:\Users\admin\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\EditProjectMessageWindow.baml
+C:\Users\admin\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\SelectWindows\SelectEmployeeWindow.baml
+C:\Users\admin\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\SelectWindows\SelectProjectWindow.baml
+C:\Users\admin\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\UserWindow.baml
+C:\Users\admin\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\EditProjectCostWindow.baml
+C:\Users\admin\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\RelatedEntriesWindow.baml
+C:\Users\admin\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\AddProjectCostWindow.baml
+C:\Users\admin\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectEmployee\AddProjectEmployeeWindow.baml
+C:\Users\admin\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\AddProjectMessageWindow.baml
+C:\Users\admin\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\AddProjectWindow.baml
+C:\Users\admin\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Employee\EditEmployeeWindow.baml
+C:\Users\admin\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\EditProjectWindow.baml
+C:\Users\admin\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\MainWindow.baml
+C:\Users\admin\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\ProjectCostsWindow.baml
+C:\Users\admin\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\ProjectHoursWindow.baml
+C:\Users\admin\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\ProjectMessagesWindow.baml
+C:\Users\admin\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\ProjectWindow.baml
+C:\Users\admin\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.g.resources
+C:\Users\admin\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.Properties.Resources.resources
+C:\Users\admin\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.csproj.GenerateResource.Cache
+C:\Users\ByggEining\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\bin\Debug\ProjectMaster2016.exe.config
+C:\Users\ByggEining\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.exe
+C:\Users\ByggEining\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.pdb
+C:\Users\hordure\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\bin\Debug\ProjectMaster2016.exe.config
+C:\Users\hordure\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.exe
+C:\Users\hordure\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.pdb
+C:\Users\hordure\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\bin\Debug\ProjectMaster2016.exe
+C:\Users\hordure\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\bin\Debug\ProjectMaster2016.pdb
+C:\Users\hordure\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\bin\Debug\WPFTextBoxAutoComplete.dll
+C:\Users\hordure\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.csprojResolveAssemblyReference.cache
+C:\Users\hordure\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\AddProjectHourWindow.baml
+C:\Users\hordure\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\EditProjectHoursWindow.baml
+C:\Users\hordure\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectDetailsWindow.g.cs
+C:\Users\hordure\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Employee\AddEmployeeWindow.g.cs
+C:\Users\hordure\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Employee\EmployeeWindow.g.cs
+C:\Users\hordure\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\EditProjectMessageWindow.g.cs
+C:\Users\hordure\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\SelectWindows\SelectEmployeeWindow.g.cs
+C:\Users\hordure\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\SelectWindows\SelectProjectWindow.g.cs
+C:\Users\hordure\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\UserWindow.g.cs
+C:\Users\hordure\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\AddProjectHourWindow.g.cs
+C:\Users\hordure\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\EditProjectHoursWindow.g.cs
+C:\Users\hordure\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\EditProjectCostWindow.g.cs
+C:\Users\hordure\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\RelatedEntriesWindow.g.cs
+C:\Users\hordure\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\AddProjectCostWindow.g.cs
+C:\Users\hordure\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectEmployee\AddProjectEmployeeWindow.g.cs
+C:\Users\hordure\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\AddProjectMessageWindow.g.cs
+C:\Users\hordure\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\AddProjectWindow.g.cs
+C:\Users\hordure\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Employee\EditEmployeeWindow.g.cs
+C:\Users\hordure\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\EditProjectWindow.g.cs
+C:\Users\hordure\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\MainWindow.g.cs
+C:\Users\hordure\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\ProjectCostsWindow.g.cs
+C:\Users\hordure\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\ProjectHoursWindow.g.cs
+C:\Users\hordure\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\ProjectMessagesWindow.g.cs
+C:\Users\hordure\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\ProjectWindow.g.cs
+C:\Users\hordure\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\App.g.cs
+C:\Users\hordure\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\hordure\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016_MarkupCompile.cache
+C:\Users\hordure\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016_MarkupCompile.lref
+C:\Users\hordure\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectDetailsWindow.baml
+C:\Users\hordure\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Employee\AddEmployeeWindow.baml
+C:\Users\hordure\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Employee\EmployeeWindow.baml
+C:\Users\hordure\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\EditProjectMessageWindow.baml
+C:\Users\hordure\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\SelectWindows\SelectEmployeeWindow.baml
+C:\Users\hordure\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\SelectWindows\SelectProjectWindow.baml
+C:\Users\hordure\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\UserWindow.baml
+C:\Users\hordure\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\EditProjectCostWindow.baml
+C:\Users\hordure\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\RelatedEntriesWindow.baml
+C:\Users\hordure\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\AddProjectCostWindow.baml
+C:\Users\hordure\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectEmployee\AddProjectEmployeeWindow.baml
+C:\Users\hordure\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\AddProjectMessageWindow.baml
+C:\Users\hordure\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\AddProjectWindow.baml
+C:\Users\hordure\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Employee\EditEmployeeWindow.baml
+C:\Users\hordure\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\EditProjectWindow.baml
+C:\Users\hordure\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\MainWindow.baml
+C:\Users\hordure\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectCost\ProjectCostsWindow.baml
+C:\Users\hordure\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectHours\ProjectHoursWindow.baml
+C:\Users\hordure\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\ProjectMessages\ProjectMessagesWindow.baml
+C:\Users\hordure\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\Windows\Project\ProjectWindow.baml
+C:\Users\hordure\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.g.resources
+C:\Users\hordure\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.Properties.Resources.resources
+C:\Users\hordure\Dropbox\Forritun\Lokaverkefni - Jón Arnar\Pm-Skil, ekki breyta\ProjectMaster\ProjectMaster2016\ProjectMaster2016\obj\Debug\ProjectMaster2016.csproj.GenerateResource.Cache

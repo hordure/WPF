@@ -1,0 +1,26 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:ProjectMaster2016" x:Class="ProjectMaster2016.RelatedEntriesWindow"
+        Title="RelatedEntriesWindow" Height="688.5" Width="676.5" Loaded="Window_Loaded" WindowStartupLocation="CenterScreen">
+    <Window.Resources>
+        <local:projectmasterDataSet x:Key="projectmasterDataSet"/>
+        <CollectionViewSource x:Key="project_employeesViewSource" Source="{Binding project_employees, Source={StaticResource projectmasterDataSet}}"/>
+    </Window.Resources>
+    <Grid Margin="0,0,2,-3" DataContext="{StaticResource project_employeesViewSource}">
+        <DataGrid x:Name="project_employeesDataGrid" AutoGenerateColumns="False" EnableRowVirtualization="True" ItemsSource="{Binding}" Margin="26,84,24,26" RowDetailsVisibilityMode="VisibleWhenSelected" IsReadOnly="True">
+            <DataGrid.Columns>
+                <!--<DataGridTextColumn x:Name="peidColumn" Binding="{Binding peid}" Header="peid" IsReadOnly="True" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="project_pidColumn" Binding="{Binding project_pid}" Header="project pid" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="employee_eidColumn" Binding="{Binding employee_eid}" Header="employee eid" Width="SizeToHeader"/>-->
+
+                <DataGridTextColumn x:Name="timestamp" Binding="{Binding costtimestamp, StringFormat='{}{0:dd.MM.yyyy}'}"  Header="Stofn dags." Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="description" Binding="{Binding costdescription}" Header="Lýsing" Width="*"/>
+                <DataGridTextColumn x:Name="cost" Binding="{Binding cost}" Header="Færsla" Width="SizeToCells"/>
+                <DataGridTextColumn x:Name="tegund" Binding="{Binding Tegund}" Header="Tegund" Width="SizeToCells"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Label x:Name="lblProjectTitle" Content="Label" Margin="141,48,0,0" VerticalAlignment="Top" FontSize="16" HorizontalAlignment="Left"/>
+
+    </Grid>
+</Window>

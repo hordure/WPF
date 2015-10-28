@@ -1,0 +1,59 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:ProjectMaster2016" x:Class="ProjectMaster2016.EmployeeWindow"
+        Title="Starfsmannayfirlit" Height="700" Width="1100" Loaded="Window_Loaded" WindowStartupLocation="CenterScreen">
+    <Window.Resources>
+        <local:projectmasterDataSet x:Key="projectmasterDataSet"/>
+        <CollectionViewSource x:Key="employeeViewSource" Source="{Binding employee, Source={StaticResource projectmasterDataSet}}"/>
+    </Window.Resources>
+    <Grid DataContext="{StaticResource employeeViewSource}">
+
+        <DataGrid x:Name="employeeDataGrid" SelectedValuePath="eid" RowDetailsVisibilityMode="VisibleWhenSelected" Margin="10,98,10,25" ItemsSource="{Binding}" EnableRowVirtualization="True" AutoGenerateColumns="False" IsReadOnly="True">
+            <DataGrid.ContextMenu>
+                <ContextMenu x:Name="ctxMenu">
+                    <MenuItem x:Name="menu_AddEmployee" Header="Bæta við" Click="btnAddEmployee_Click" />
+                    <MenuItem x:Name="menu_EditEmployee" Header="Breyta" Click="btnEditEmployee_Click" />
+                    <MenuItem x:Name="menu_RemoveEmployee" Header="Eyða" Click="btnRemoveEmployee_Click"/>
+                </ContextMenu>
+            </DataGrid.ContextMenu>
+            <DataGrid.Columns>
+                <DataGridTextColumn x:Name="eidColumn" Width="SizeToHeader" IsReadOnly="True" Header="eid" Binding="{Binding eid}"/>
+                <DataGridTextColumn x:Name="nameColumn" Width="SizeToCells" Header="name" Binding="{Binding name}" />                    
+                <DataGridTextColumn x:Name="emailColumn" Width="SizeToCells" Header="email" Binding="{Binding email}"/>
+                <DataGridTextColumn x:Name="homeaddressColumn" Width="150" Header="homeaddress" Binding="{Binding homeaddress}">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style>
+                            <Setter Property="TextBlock.TextWrapping" Value="Wrap" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn x:Name="zipColumn" Width="SizeToCells" Header="zip" Binding="{Binding zip}"/>                          
+                <DataGridTextColumn x:Name="phoneColumn" Width="SizeToCells" Header="phone" Binding="{Binding phone}"/>
+                <DataGridTemplateColumn x:Name="imgColumn" Width="60" Header="img">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Image Source="{Binding img}"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTextColumn x:Name="professionColumn" Width="SizeToCells" Header="profession" Binding="{Binding profession}"/>
+                <DataGridTextColumn x:Name="userroleColumn" Width="SizeToCells" Header="Role" Binding="{Binding userrole}"/>
+                <DataGridTextColumn x:Name="usernameColumn" Width="SizeToCells" Header="username" Binding="{Binding username}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        
+        <Button x:Name="btnRemoveEmployee" Margin="0,55,51,0" BorderBrush="#FFF9F3F3" BorderThickness="2" Cursor="Hand" Background="Transparent" Height="30"  VerticalAlignment="Top" HorizontalAlignment="Right" Width="30" Click="btnRemoveEmployee_Click" TabIndex="6">
+            <Image Source="../../images/minus.png" Height="15" />
+        </Button>
+        <Button x:Name="btnAddEmployee" Margin="0,55,91,0" BorderBrush="#FFF9F3F3" BorderThickness="2" Cursor="Hand" Background="Transparent" Height="30" VerticalAlignment="Top" HorizontalAlignment="Right" Width="30" Click="btnAddEmployee_Click" TabIndex="5">
+            <Image Source="../../images/plus.png" Height="20" Width="21" />
+        </Button>
+        <Button x:Name="btnEditEmployee" Margin="0,55,11,0" BorderBrush="#FFF9F3F3" BorderThickness="2" Cursor="Hand" Background="Transparent" Height="30" VerticalAlignment="Top" HorizontalAlignment="Right" Width="30" Click="btnEditEmployee_Click" TabIndex="7">
+            <Image  Source="../../images/wrench.png"  Stretch="Fill" Width="22" Height="22" />
+        </Button>
+        <Label x:Name="lblName" Content="" Margin="0,0,11,0" VerticalAlignment="Top"  HorizontalAlignment="Right" />
+        <Button x:Name="btnLogOut" Content="Útskráning" Background="Transparent"  BorderBrush="Transparent" Cursor="Hand" HorizontalAlignment="Right" Margin="0,22,11,0" VerticalAlignment="Top" Width="76" Click="btnLogOut_Click" TabIndex="8" />
+
+    </Grid>
+</Window>
